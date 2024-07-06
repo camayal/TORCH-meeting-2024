@@ -1,0 +1,6 @@
+This data package was downloaded from a TORCH Portal Collection Page, Archived DwC-A package created on 2024-07-01 09:54:50.
+
+Please use the following format to cite this dataset:
+. Occurrence dataset (ID: )  accessed via the TORCH Portal Portal, https://portal.torcherbaria.org/portal, 2024-07-01).
+
+For more information on citation formats, please see the following page: https://portal.torcherbaria.org/portal/includes/usagepolicy.php
